@@ -1,16 +1,13 @@
-### Hi there 👋
+**Software is a catalyst for social change.** I aspire to drive innovation by implementing technological solutions to positively impact lives and communities.
 
-<!--
-**thpoiani/thpoiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's great to see you! I'm **Thiago Poiani**, a **software developer**, and through persistent endeavor, my mission is being achieved at [SkipTheDishes](https://skipthedishes.com), a leading global online food delivery marketplace.
 
-Here are some ideas to get you started:
+Working in the Dispatch Logistics Team, our challenge is to revolutionize _"order delivery"_ by maintaining geographic systems designed for scalability and reliability, contributing to efficient work for couriers, and customer satisfaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Furthermore, my professional and academic backgrounds were essential factors in defining my purpose, as some of my past experiences also had social impacts:
+- [Lady Driver](https://ladydriver.com.br), the largest female transportation app in Latin America, provided extra income for families and safety for passengers;
+- I was one of the authors of a published case study on how the collaborative mapping activities that followed the Nepal Earthquake in 2015 were coordinated and structured.
+
+To pursue these personal values, I will evolve my hard and soft skills, diving into software architecture and sharing knowledge in events and trainings. I also impact the people around me, being an engaged, supportive and loving father and husband.
+
+Get in touch with me: https://www.linkedin.com/in/thpoiani
